@@ -11,7 +11,7 @@ Login()
 
 	web_add_cookie("FRNDID=15537523; DOMAIN=myspace.com");
 
-	web_add_cookie("ME=laurence%5Fmaar%40hotmail%2Ecom; DOMAIN=myspace.com");
+	web_add_cookie("ME=load%5F%40rmail%2Ecom; DOMAIN=myspace.com");
 
 	web_url("myspace.com", 
 		"URL=http://myspace.com/", 
@@ -47,7 +47,7 @@ Login()
 		"Snapshot=t193.inf", 
 		"Mode=HTTP", 
 		ITEMDATA, 
-		"Name=email", "Value=laurence_maar@hotmail.com", ENDITEM, 
+		"Name=email", "Value=load-test-acct@ymail.com", ENDITEM, 
 		"Name=password", "Value=asdh!293*", ENDITEM, 
 		"Name=Remember", "Value=Remember", ENDITEM, 
 		"Name=Submit22.x", "Value=13", ENDITEM, 
