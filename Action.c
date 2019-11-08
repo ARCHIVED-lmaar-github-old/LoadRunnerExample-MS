@@ -1,6 +1,6 @@
 Action()
 {
-	MSF01_Friends_Search( "Lauren" );
+	MSF01_Friends_Search( "Bob" );
 
 //	MSF10_Friends_Add( "683" );
 
