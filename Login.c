@@ -48,7 +48,7 @@ Login()
 		"Mode=HTTP", 
 		ITEMDATA, 
 		"Name=email", "Value=laurence_maar@hotmail.com", ENDITEM, 
-		"Name=password", "Value=simba", ENDITEM, 
+		"Name=password", "Value=asdh!293*", ENDITEM, 
 		"Name=Remember", "Value=Remember", ENDITEM, 
 		"Name=Submit22.x", "Value=13", ENDITEM, 
 		"Name=Submit22.y", "Value=5", ENDITEM, 
