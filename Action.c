@@ -1,7 +1,9 @@
 Action()
 {
 	MSF01_Friends_Search( "Bob" );
-//	MSF10_Friends_Add( "683" );
+
+	// Add a specific user by profile ID
+	// MSF10_Friends_Add( "683" );
 
 	lr_message( "***!~ COMPLETED Action() ~!***" );
 
