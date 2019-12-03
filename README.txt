@@ -5,6 +5,8 @@ This is real demo code which was created against the legacy myspace.com platform
 order to demonstrate complex LoadRunner logic. This code did a search request and
 could then send "Friend Requests" to anyone matching designated search criteria.
 
+This also demonstrates "crawler"/"spider" functionality.
+
 -----
 
 Laurence Maar
