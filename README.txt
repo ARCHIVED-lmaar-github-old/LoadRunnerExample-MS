@@ -12,4 +12,3 @@ This also demonstrates "crawler"/"spider" functionality.
 Laurence Maar
 https://www.linkedin.com/in/laurencemaar/
 https://github.com/laurencemaar/
-laurencemaar@gmail.com
